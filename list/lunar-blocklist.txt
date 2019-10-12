@@ -1,11 +1,11 @@
-﻿[Adblock Plus 2.0]
+[Adblock Plus 2.0]
 !
-! Version 0.5
+! Version 1.0
 !
-! Lunar Blocklist by wolfbeast
+! Lunar Blocklist by Moonchild
 !
-! A powerful filter list subscription.
-! Blocks ads, trackers.
+! A powerful, generic, English-focused filter list subscription.
+! Blocks ads & some trackers.
 !
 ! *** Ad and Tracker Blocking ***
 !
