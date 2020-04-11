@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 !
-! Version 1.0.2
+! Version 1.0.3
 !
 ! Lunar Blocklist by Moonchild
 !
@@ -1081,7 +1081,11 @@ all-free-download.com,comicsalliance.com,dailymotion.com,krebsonsecurity.com##DI
 amazon.com##DIV\[id^="sponsored"]
 animefreak.tv##DIV\[class*="-filter"]
 animenewsnetwork.com##\[class*="iab"]
+bikeexchange.com.au,bikeexchange.co.nz,bikeexchange.com,bikeexchange.de,bikeexchange.be,bikeexchange.nl,bikeexchange.co.uk,bikeexchange.ie,bikeexchange.com.co,facebook.com,oakley.com#@#.advert
+cardgames.io,check24.de#@#DIV\[id*="-ads"]
+cdkeys.com#@#DIV\[class^="box-ad"]
 channelnewsasia.com,kiplinger.com##\[class*="advert"]
+chess.com#@#DIV\[id^="div-gpt-ad"]
 christianitytoday.com##.overlay
 cnet.com,empireonline.com,laptopmag.com##DIV\[id^="leader"]
 cnn.com##\[class*="promotions"]
@@ -1094,6 +1098,7 @@ deviantart.com,nzherald.co.nz,raiders.com##.ad-container
 distractify.com##DIV\[class*="AdInArticle"]
 distractify.com##DIV\[class^="RightRail"]
 eventcinemas.com.au,eventcinemas.co.nz,thedailysheeple.com##.ads
+facebook.com#@#.Ad
 greatist.com,slashfilm.com##DIV\[id*="300x250"]
 horrornews.net##DIV\[id*="cedato"]
 mangafox.me##DIV\[style*="banners/"]
@@ -1101,6 +1106,8 @@ mirror.co.uk##.top-slot
 mlive.com,theyeshivaworld.com##DIV\[class*="_ad_"]
 moneycontrol.com##DIV\[class^="bot_"]
 movieweb.com,nerdist.com##DIV\[class^="banner"]
+news.naver.com#@#.sponsor
+photographyblog.com#@#DIV\[id^="taboola-"]
 pixabay.com##DIV\[class*="sponsored"]
 probuilds.net##DIV\[class*="-bnr"]
 salon.com##DIV\[class*="-ad-"]
@@ -1142,6 +1149,7 @@ youtube.com##DIV\[class*="-ads-"]
 @@/webtrends.$script,domain=mabanque.bnpparibas
 @@_tracker.$script,domain=huffingtonpost.de
 @@_tracking.$script,domain=kohls.com|slideshare.net
+@@octopus_tracker.min$domain=dropbox.com
 @@||abclocal.go.com/combiner/*/js/analytics/
 @@||accounts.alibaba.com^
 @@||ad.crwdcntrl.net^$script,domain=weather.com
@@ -1182,10 +1190,3 @@ youtube.com##DIV\[class*="-ads-"]
 @@||use.typekit.net^$script,font
 @@||vidtech.cbsinteractive.com/*/tracking/$script
 @@||yandex.ru^$xmlhttprequest,domain=yastatic.net
-bikeexchange.com.au,bikeexchange.co.nz,bikeexchange.com,bikeexchange.de,bikeexchange.be,bikeexchange.nl,bikeexchange.co.uk,bikeexchange.ie,bikeexchange.com.co,facebook.com,oakley.com#@#.advert
-cardgames.io,check24.de#@#DIV\[id*="-ads"]
-cdkeys.com#@#DIV\[class^="box-ad"]
-chess.com#@#DIV\[id^="div-gpt-ad"]
-facebook.com#@#.Ad
-news.naver.com#@#.sponsor
-photographyblog.com#@#DIV\[id^="taboola-"]
