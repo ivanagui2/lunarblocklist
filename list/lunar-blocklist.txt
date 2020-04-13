@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 !
-! Version 1.0.3
+! Version 1.0.4
 !
 ! Lunar Blocklist by Moonchild
 !
@@ -1186,7 +1186,7 @@ youtube.com##DIV\[class*="-ads-"]
 @@||scorecardresearch.com^$script,domain=animalplanet.com
 @@||stats.$domain=csnchicago.com|stats.com|wetter.info
 @@||ticketm.net/*/tm_internal_tracker.js
-@@||tritondigital.com^$domain=omny.fm
+@@||*.mc.tritondigital.com^
 @@||use.typekit.net^$script,font
 @@||vidtech.cbsinteractive.com/*/tracking/$script
 @@||yandex.ru^$xmlhttprequest,domain=yastatic.net
