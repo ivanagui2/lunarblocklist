@@ -28,7 +28,7 @@
 .ads.*/banner?
 .advertising.com/
 .com/_/tr.ashx?r=*&loc=
-.com/ad/
+.com/ad/$~third-party,domain=~blogs.technet.microsoft.com|~channel4.com|~cspace.com|~imgbox.com|~linkedin.com|~mediaplex.com|~namemc.com|~suicidegirlsfree.com
 .com/ad_img/
 .com/adlink/
 .com/ads-
