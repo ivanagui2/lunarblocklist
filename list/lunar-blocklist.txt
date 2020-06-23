@@ -1181,6 +1181,7 @@ youtube.com##DIV\[class*="-ads-"]
 @@||outbrain.com^$domain=wtae.com
 @@||parsely.com^$script,domain=dailystar.co.uk|express.co.uk
 @@||passport.alibaba.com^
+@@||pixel.nymag.com/imgs/$document,image
 @@||roimedia.advertserve.com/js/
 @@||s.youtube.com/api/stats/playback?
 @@||scorecardresearch.com^$script,domain=animalplanet.com
